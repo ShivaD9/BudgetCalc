@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'app.dart';
 
 void main() {
-
   // ToDo:add widgets bindings
   // ToDo:init local storage
   // ToDo:await native splash
@@ -11,4 +10,6 @@ void main() {
   // ToDo:initialize authentication
   runApp(const MyApp());
 }
+
+
 
